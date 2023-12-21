@@ -1,4 +1,4 @@
 welcome to my project
 
-Author:AKRAM
+Author:AKRAM Human
 Twitter: @Idk
