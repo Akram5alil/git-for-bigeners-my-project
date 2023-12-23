@@ -1,4 +1,4 @@
-welcome to my project
+welcome to the "Git for biginners" my project
 
 Author:AKRAM Human
 .
